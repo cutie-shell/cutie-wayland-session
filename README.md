@@ -1,2 +1,2 @@
-# glacier-wayland-session
-Nemomobile Glacier Wayland session
+# cutie-wayland-session
+Cutie Wayland session

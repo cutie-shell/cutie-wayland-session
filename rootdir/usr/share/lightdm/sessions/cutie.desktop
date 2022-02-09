@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Cutie
+Exec=cutie-session
+TryExec=cutie-session
+Type=Application
+X-LightDM-Session-Type=wayland
+X-LightDM-DesktopName=Cutie
+
